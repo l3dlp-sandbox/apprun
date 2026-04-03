@@ -5,13 +5,15 @@
 [![NPM version][npm-image]][npm-url] [![Downloads][downloads-image]][downloads-url] [![License][license-image]][license-url] [![twitter][twitter-badge]][twitter] [![Discord Chat][discord-image]][discord-invite]
 
 
-⭐ NEW instruction: Step-by-step guide to building a Single Page Application (SPA) using the AppRun pattern, with architectural reasoning for each step: 
+⭐ NEW Agent Skills for AppRun: We have developed a set of AI Agent Skills to assist with AppRun development. These skills cover various aspects of building applications with AppRun, including component design, state management, routing, and testing. 
 
-- [Building a SPA Using AppRun](ai/building-apprun-spa.md).
 
-🕵️ We also have rule / prompt files that you can use with your AI Coding Agent:
+You can install the AppRun Skills for your AI agents with the following command:
 
-- [For Components using JSX](ai/apprun.prompt.md)
+```bash
+npx skills add yysun/apprun
+```
+
 
 🚀 July 2025, We have started to improve the codebase using AI - the spec-driven flow. The requirements, implementation plan and final results are stored in the `docs` folder.
 
